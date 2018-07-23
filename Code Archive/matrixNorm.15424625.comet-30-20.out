@@ -1,0 +1,20 @@
+Number of Threads Per Block = 100
+Number of Blocks = 60
+
+Matrix dimension N = 6000.
+
+Initializing...
+Computing in Parallel
+
+Starting clock.
+Stopped clock.
+
+Elapsed time = 471.698 ms.
+
+The elapsed time in gpu was 81.09 ms
+
+(CPU times are accurate to the nearest 0.001 ms)
+My total CPU time for parent = 0.04 ms.
+My system CPU time for parent = 0.033 ms.
+My total CPU time for child processes = 0 ms.
+--------------------------------------------

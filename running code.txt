@@ -1,0 +1,7 @@
+Running the Code
+=================================
+Sequential Program : gcc  seqMatrixNorm –o matrixNorm.c
+Parallel Program : nvcc matrixNorm –o matrixNorm.cu
+Running Program
+Sbatch cuda_job.sh
+Cat filename.out 
